@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Solar_System_150747.unity
+  isLoaded: 1
+  isActive: 1
